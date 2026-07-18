@@ -63,7 +63,11 @@ Platform Performance Chart
 Conversion Analysis Chart
 
 KPI Summary Section
+👨‍💻 Author
+Adarsh Nishad
 
+GitHub: (https://github.com/adarshnishad534)
+LinkedIn:www.linkedin.com/in/adarsh-nishad-474222366
 
 
 <img width="1861" height="664" alt="Screenshot (156)" src="https://github.com/user-attachments/assets/efbf7f81-63df-4459-9198-b28679666d1f" />
